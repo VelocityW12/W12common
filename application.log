@@ -1,0 +1,149 @@
+2022-04-14 12:52:30,902  INFO [main] SauceDemoV1:47 - Browser open and url hit
+2022-04-14 12:52:31,496  INFO [main] SauceDemoV1:22 - TC01 pass
+2022-04-14 12:52:37,625  INFO [main] SauceDemoV1:47 - Browser open and url hit
+2022-04-14 12:52:44,441  INFO [main] SauceDemoV1:47 - Browser open and url hit
+2022-04-14 12:52:51,458  INFO [main] SauceDemoV1:47 - Browser open and url hit
+2022-04-14 12:53:27,365  INFO [main] SauceDemoV1:47 - Browser open and url hit
+2022-04-14 12:53:34,566  INFO [main] SauceDemoV1:47 - Browser open and url hit
+2022-04-14 12:57:14,090  INFO [main] SauceDemoV1:47 - Browser open and url hit
+2022-04-14 12:57:14,848  INFO [main] SauceDemoV1:22 - TC01 pass
+2022-04-14 12:57:22,208  INFO [main] SauceDemoV1:47 - Browser open and url hit
+2022-04-14 12:57:29,858  INFO [main] SauceDemoV1:47 - Browser open and url hit
+2022-04-14 12:57:36,700  INFO [main] SauceDemoV1:47 - Browser open and url hit
+2022-04-14 12:57:37,117  INFO [main] SauceDemoV1:22 - enter in tc 05
+2022-04-14 12:58:12,844  INFO [main] SauceDemoV1:47 - Browser open and url hit
+2022-04-14 12:58:20,198  INFO [main] SauceDemoV1:47 - Browser open and url hit
+2022-04-14 13:02:48,765  INFO [main] SauceDemoV1:47 - Browser open and url hit
+2022-04-14 13:02:49,679  INFO [main] SauceDemoV1:22 - TC01 pass
+2022-04-14 13:02:56,859  INFO [main] SauceDemoV1:47 - Browser open and url hit
+2022-04-14 13:03:03,763  INFO [main] SauceDemoV1:47 - Browser open and url hit
+2022-04-14 13:03:11,647  INFO [main] SauceDemoV1:47 - Browser open and url hit
+2022-04-14 13:03:12,502  INFO [main] SauceDemoV1:22 - enter in tc 05
+2022-04-14 13:03:12,503  INFO [main] SauceDemoV1:23 - element not found
+2022-04-14 13:03:48,688  INFO [main] SauceDemoV1:47 - Browser open and url hit
+2022-04-14 13:03:55,341  INFO [main] SauceDemoV1:47 - Browser open and url hit
+2022-04-14 13:07:42,967  INFO [main] SauceDemoV1:47 - Browser open and url hit
+2022-04-14 13:07:43,589  INFO [main] SauceDemoV1:22 - TC01 pass
+2022-04-14 13:07:50,419  INFO [main] SauceDemoV1:47 - Browser open and url hit
+2022-04-14 13:07:57,789  INFO [main] SauceDemoV1:47 - Browser open and url hit
+2022-04-14 13:08:05,237  INFO [main] SauceDemoV1:47 - Browser open and url hit
+2022-04-14 13:08:05,716  INFO [main] SauceDemoV1:23 - enter in tc 05
+2022-04-14 13:08:05,717  INFO [main] SauceDemoV1:24 - element not found
+2022-04-14 13:08:43,199  INFO [main] SauceDemoV1:47 - Browser open and url hit
+2022-04-14 13:08:49,775  INFO [main] SauceDemoV1:47 - Browser open and url hit
+2022-04-14 13:18:12,501  INFO [TestNG-tests-1] SauceDemoV1:48 - Browser open and url hit
+2022-04-14 13:18:13,200  INFO [TestNG-tests-1] SauceDemoV1:23 - enter in tc 05
+2022-04-14 13:18:13,201  INFO [TestNG-tests-1] SauceDemoV1:24 - element not found
+2022-04-14 13:18:54,844  INFO [TestNG-tests-1] SauceDemoV1:48 - Browser open and url hit
+2022-04-14 13:18:55,252  INFO [TestNG-tests-1] SauceDemoV1:22 - TC01 pass
+2022-04-14 13:19:02,406  INFO [TestNG-tests-1] SauceDemoV1:48 - Browser open and url hit
+2022-04-14 13:19:20,268  INFO [TestNG-tests-1] SauceDemoV1:48 - Browser open and url hit
+2022-04-14 13:19:41,268  INFO [TestNG-tests-1] SauceDemoV1:48 - Browser open and url hit
+2022-04-14 13:19:49,552  INFO [TestNG-tests-1] SauceDemoV1:48 - Browser open and url hit
+2022-04-14 13:20:35,301  INFO [TestNG-tests-2] SauceDemoV1:48 - Browser open and url hit
+2022-04-14 13:20:42,585  INFO [TestNG-tests-2] SauceDemoV1:22 - TC01 pass
+2022-04-14 13:21:06,970  INFO [TestNG-tests-2] SauceDemoV1:48 - Browser open and url hit
+2022-04-14 13:21:27,842  INFO [TestNG-tests-2] SauceDemoV1:48 - Browser open and url hit
+2022-04-14 13:21:54,004  INFO [TestNG-tests-2] SauceDemoV1:48 - Browser open and url hit
+2022-04-14 13:22:16,078  INFO [TestNG-tests-2] SauceDemoV1:48 - Browser open and url hit
+2022-04-14 23:39:03,119  INFO [TestNG-tests-1] SauceDemoV1:48 - Browser open and url hit
+2022-04-14 23:39:04,770  INFO [TestNG-tests-1] SauceDemoV1:23 - enter in tc 05
+2022-04-14 23:39:04,771  INFO [TestNG-tests-1] SauceDemoV1:24 - element not found
+2022-04-14 23:46:32,143  INFO [TestNG-tests-1] SauceDemoV1:48 - Browser open and url hit
+2022-04-14 23:49:08,967  INFO [TestNG-tests-1] SauceDemoV1:48 - Browser open and url hit
+2022-04-14 23:58:40,059  INFO [TestNG-tests-1] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 00:25:23,257  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 00:25:23,762  INFO [main] SauceDemoV1:22 - TC01 pass
+2022-04-15 00:25:29,495  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 00:25:35,574  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 00:25:41,914  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 00:40:57,523  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 00:40:58,062  INFO [main] SauceDemoV1:22 - TC01 pass
+2022-04-15 00:41:03,796  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 00:41:11,761  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 00:41:18,526  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 00:41:53,977  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 00:41:54,394  INFO [main] SauceDemoV1:23 - enter in tc 05
+2022-04-15 00:41:54,395  INFO [main] SauceDemoV1:24 - element not found
+2022-04-15 00:42:29,401  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 00:42:36,285  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 00:55:59,566  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 00:56:00,094  INFO [main] SauceDemoV1:22 - TC01 pass
+2022-04-15 00:56:05,673  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 00:56:12,229  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 00:56:19,123  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 00:56:54,860  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 00:56:55,394  INFO [main] SauceDemoV1:23 - enter in tc 05
+2022-04-15 00:56:55,395  INFO [main] SauceDemoV1:24 - element not found
+2022-04-15 00:57:31,327  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 00:57:37,724  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:02:24,449  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:02:24,972  INFO [main] SauceDemoV1:22 - TC01 pass
+2022-04-15 01:02:29,954  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:02:37,461  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:02:43,923  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:03:19,857  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:03:20,304  INFO [main] SauceDemoV1:23 - enter in tc 05
+2022-04-15 01:03:20,304  INFO [main] SauceDemoV1:24 - element not found
+2022-04-15 01:03:55,871  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:04:02,766  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:09:46,449  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:09:46,972  INFO [main] SauceDemoV1:23 - TC01 pass
+2022-04-15 01:09:52,670  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:09:58,937  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:10:05,614  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:10:41,303  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:10:41,728  INFO [main] SauceDemoV1:24 - enter in tc 05
+2022-04-15 01:10:41,729  INFO [main] SauceDemoV1:25 - element not found
+2022-04-15 01:11:16,832  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:11:22,993  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:14:09,345  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:14:09,853  INFO [main] SauceDemoV1:23 - TC01 pass
+2022-04-15 01:14:15,306  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:14:21,795  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:14:28,019  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:15:04,077  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:15:04,585  INFO [main] SauceDemoV1:24 - enter in tc 05
+2022-04-15 01:15:04,585  INFO [main] SauceDemoV1:25 - element not found
+2022-04-15 01:15:40,977  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:15:48,981  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:23:12,753  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:23:13,870  INFO [main] SauceDemoV1:23 - TC01 pass
+2022-04-15 01:23:19,512  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:23:26,454  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:23:33,739  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:24:10,341  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:24:10,829  INFO [main] SauceDemoV1:24 - enter in tc 05
+2022-04-15 01:24:10,830  INFO [main] SauceDemoV1:25 - element not found
+2022-04-15 01:24:46,131  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:24:53,467  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:28:17,983  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:28:18,505  INFO [main] SauceDemoV1:23 - TC01 pass
+2022-04-15 01:28:24,482  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:28:30,717  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:28:37,611  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:29:14,564  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:29:14,994  INFO [main] SauceDemoV1:24 - enter in tc 05
+2022-04-15 01:29:14,995  INFO [main] SauceDemoV1:25 - element not found
+2022-04-15 01:29:49,770  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 01:29:56,162  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 12:06:25,488  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 12:06:26,283  INFO [main] SauceDemoV1:23 - TC01 pass
+2022-04-15 12:06:34,092  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 12:06:41,777  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 12:06:50,499  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 12:07:26,777  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 12:07:27,283  INFO [main] SauceDemoV1:24 - enter in tc 05
+2022-04-15 12:07:27,284  INFO [main] SauceDemoV1:25 - element not found
+2022-04-15 12:08:03,115  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 12:08:10,292  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 13:31:50,590  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 13:31:51,151  INFO [main] SauceDemoV1:23 - TC01 pass
+2022-04-15 13:31:57,212  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 13:32:04,664  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 13:32:13,712  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 13:32:31,698  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 13:32:32,176  INFO [main] SauceDemoV1:24 - enter in tc 05
+2022-04-15 13:32:32,176  INFO [main] SauceDemoV1:25 - element not found
+2022-04-15 13:32:49,306  INFO [main] SauceDemoV1:48 - Browser open and url hit
+2022-04-15 13:32:56,148  INFO [main] SauceDemoV1:48 - Browser open and url hit
